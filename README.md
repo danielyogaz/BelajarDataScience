@@ -1,2 +1,2 @@
-# BelajarDataScience
-Belajar Data Science bersama DTSense
+# Data Science
+Lerning Data Scince with DTSense
