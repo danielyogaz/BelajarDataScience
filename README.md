@@ -1,2 +1,2 @@
 # Data Science
-Learning Data Scince with DTSense
+Learning Data Science with DTSense
